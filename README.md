@@ -71,7 +71,7 @@ permutation_counts = analyzer.permutation_count()
 ## API Description
 
 ### Die Class
-**Public Methods:**
+**Methods:**
 - `__init__(self, faces=[1, 2, 3, 4, 5, 6])`: Initializes a die with the given faces.  
   - **Parameters:**  
     `faces` (np.ndarray): Unique symbols or numbers. Default is `[1, 2, 3, 4, 5, 6]`.  
@@ -104,7 +104,7 @@ permutation_counts = analyzer.permutation_count()
 ---
 
 ### Game Class
-**Public Methods:**
+**Methods:**
 - `__init__(self, dice_list)`: Initializes the game with a list of dice.  
   - **Parameters:**  
     `dice_list` (list): List of `Die` objects.  
@@ -137,7 +137,7 @@ permutation_counts = analyzer.permutation_count()
 ---
 
 ### Analyzer Class
-**Public Methods:**
+**Methods:**
 - `__init__(self, game)`: Initializes the analyzer with a game object.  
   - **Parameters:**  
     `game` (`Game`): A `Game` object.  
