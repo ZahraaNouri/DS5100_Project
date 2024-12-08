@@ -1,9 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-MonteCarlo5100.egg-info/PKG-INFO
-MonteCarlo5100.egg-info/SOURCES.txt
-MonteCarlo5100.egg-info/dependency_links.txt
-MonteCarlo5100.egg-info/requires.txt
-MonteCarlo5100.egg-info/top_level.txt
-test/test.py
